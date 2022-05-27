@@ -1,3 +1,99 @@
 <resources>
     <string name="app_name">Foodergy</string>
+    <string name="signup_user">Lengkapi data dirimu dibawah ini</string>
+    <string name="nama">Nama :</string>
+    <string name="email">Email :</string>
+    <string name="password">Password :</string>
+    <string name="simpan">Simpan</string>
+    <string name="tittle_login">Masukkan datamu dibawah ini</string>
+    <string name="login">Login</string>
+    <string name="pilih_alergi">Pilih Alergi :</string>
+    <string name="checkbox_1">Gluten</string>
+    <string name="telur">Telur</string>
+    <string name="seafood">Seafood</string>
+    <string name="kacang_tanah">Kacang Tanah</string>
+    <string name="kacang_pohon">Kacang Pohon</string>
+    <string name="sulfit">Sulfit</string>
+    <string name="komposisi">Komposisi</string>
+    <string name="nama_makanan">Nama Makanan :</string>
+    <string name="komposisi_makanan">Komposisi :</string>
+    <string name="rekomendasi">Rekomendasi :</string>
+    <string name="title_activity_bottom">bottom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="ocr">OCR</string>
+    <string name="scan">scan</string>
+    <string name="alergi">Alergi :</string>
+    <string name="register">Register</string>
+    <string name="clear_datastore">Clear datastore</string>
+    <string name="logout">Logout</string>
+    <string name="title_profile">Profile</string>
+    <string name="name">Name</string>
+    <string name="welcome">Welcome</string>
+    <string name="rekom">Rekomendasi</string>
+
+    //Camera
+    <string name="error_pick_image">Error pick image</string>
+    <string name="error_showing_camera">Error showing camera</string>
+    <string name="permission_not_granted">Permission not granted</string>
+    <string name="cd_switch_camera">Button to switch to front or rear camera</string>
+    <string name="cd_capture">Button to capture image</string>
+    <string name="cd_preview">Preview image captured by camera or from gallery</string>
+
+    //tensorflow
+    <string name="tfe_ocr_app_name" translatable="false">TFL OCR</string>
+    <string name="tfe_ocr_gpu" translatable="false">GPU</string>
+    <string name="tfe_ocr_run_model" translatable="false">Run model</string>
+    <string name="tfe_ocr_texts_found" translatable="false">Text(s) Found</string>
+    <string name="tfe_ocr_no_text_found" translatable="false">No Text Found</string>
+    <string name="tfe_using_first_image" translatable="false">You are using the first image</string>
+    <string name="tfe_using_second_image" translatable="false">You are using the second image</string>
+    <string name="tfe_using_third_image" translatable="false">You are using the third image</string>
+    <string name="tfe_tf_image_description" translatable="false">TensorFlow image</string>
+    <string name="tfe_android_image_description" translatable="false">Android image</string>
+    <string name="tfe_chrome_image_description" translatable="false">Chrome image</string>
+    <string name="tfe_result_image_description" translatable="false">Result image</string>
+    <string name="arrow">Arrow</string>
+    <string name="galeri">Gallery</string>
+    <string name="camera">Camera</string>
+
+    <string-array name="namaKemasan">
+        <item>Oreo</item>
+        <item>Sambal Abc</item>
+        <item>Selai Olai</item>
+        <item>Taro</item>
+        <item>Chiki</item>
+        <item>Chitos</item>
+        <item>Ketangt</item>
+        <item>Waffer</item>
+        <item>Kacang Pilus</item>
+        <item>Kacang Atom</item>
+    </string-array>
+
+    <string-array name="alergi">
+        <item>Coklat</item>
+        <item>Sambal</item>
+        <item>Strobery</item>
+        <item>Msg</item>
+        <item>Micin</item>
+        <item>Micin</item>
+        <item>Micin</item>
+        <item>Coklat</item>
+        <item>Kacang</item>
+        <item>Kacang</item>
+    </string-array>
+    <string-array name="rekomendasi">
+        <item>True</item>
+        <item>True</item>
+        <item>False</item>
+        <item>True</item>
+        <item>False</item>
+        <item>True</item>
+        <item>True</item>
+        <item>False</item>
+        <item>True</item>
+        <item>False</item>
+    </string-array>
 </resources>
