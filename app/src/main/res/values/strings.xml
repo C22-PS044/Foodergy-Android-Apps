@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Foodergy</string>
     <string name="signup_user">Lengkapi data dirimu dibawah ini</string>
     <string name="nama">Nama :</string>
     <string name="email">Email :</string>
     <string name="password">Password :</string>
+  
     <string name="title_activity_dashboard">DashboardActivity</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
@@ -15,4 +15,7 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="ScanOCR">scan</string>
     <string name="lanjutkan">Lanjutkan</string>
+    <string name="daftar">Daftar</string>
+    <string name="tittle_login">Masukkan datamu dibawah ini</string>
+    <string name="login">Login</string>
 </resources>
