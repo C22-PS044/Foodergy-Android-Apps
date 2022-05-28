@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ScanOCR">scan</string>
+    <string name="lanjutkan">Lanjutkan</string>
+</resources>
