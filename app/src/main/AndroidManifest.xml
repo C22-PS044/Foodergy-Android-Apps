@@ -22,6 +22,18 @@
             android:name=".RegisterActivity"
             android:exported="false" />
         <activity
+            android:name=".AfterScanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.detail.DetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.register.RegisterActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true" >
             <intent-filter>
