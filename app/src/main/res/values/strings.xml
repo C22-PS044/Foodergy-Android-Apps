@@ -18,4 +18,22 @@
     <string name="daftar">Daftar</string>
     <string name="tittle_login">Masukkan datamu dibawah ini</string>
     <string name="login">Login</string>
+    
+    <string name="pilih_alergi">Pilih Alergi :</string>
+    <string name="checkbox_1">Gluten</string>
+    <string name="telur">Telur</string>
+    <string name="seafood">Seafood</string>
+    <string name="kacang_tanah">Kacang Tanah</string>
+    <string name="kacang_pohon">Kacang Pohon</string>
+    <string name="sulfit">Sulfit</string>
+    <string name="komposisi">Komposisi</string>
+    <string name="nama_makanan">Nama Makanan :</string>
+    <string name="komposisi_makanan">Komposisi :</string>
+    <string name="rekomendasi">Rekomendasi :</string>
+    
+    <string name="signup_user">Lengkapi data dirimu dibawah ini</string>
+    <string name="nama">Nama :</string>
+    <string name="email">Email :</string>
+    <string name="password">Password :</string>
+    <string name="simpan">Simpan</string>
 </resources>
